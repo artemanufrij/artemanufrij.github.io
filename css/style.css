@@ -1,0 +1,28 @@
+
+header {
+    padding: 30px;
+}
+
+h2 {
+    margin-top: 60px;
+    margin-bottom: 30px;
+    font-weight: lighter;
+    text-align: center;
+}
+
+.card {
+    box-shadow: 0px 10px 25px lightgrey;
+}
+
+.card h3, .card p {
+    text-align: center;
+    font-weight: lighter;
+}
+
+.app_icon {
+    float: left;
+}
+
+.app_description {
+    font-size: small;
+}
