@@ -21,8 +21,14 @@ h2 {
 
 .app_icon {
     float: left;
+    margin-right: 5px;
+}
+
+.app_title {
+    font-weight: lighter;
 }
 
 .app_description {
     font-size: small;
+    font-weight: lighter;
 }
