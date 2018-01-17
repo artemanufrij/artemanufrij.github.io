@@ -1,10 +1,11 @@
 
 header {
     padding: 30px 120px 30px;
-    border-bottom: 1px solid #d0d0d0;
+    border-bottom: 1px solid #d4d4d4;
     background: #e6e6e6;
-    box-shadow: 0 5px 10px #858585;
+    box-shadow: 0 5px 10px #7E8087;
     background: linear-gradient(to bottom, #e6e6e6 0%,#c5c5c5 100%);
+    font-weight: lighter;
 }
 
 @media (max-width: 768px) {
@@ -16,7 +17,7 @@ header {
 footer {
     text-align: center;
     padding: 30px;
-    border-top: 1px solid #d0d0d0;
+    border-top: 1px solid #d4d4d4;
 }
 
 h1 {
@@ -37,7 +38,7 @@ h2 {
   }
 
 .card {
-    box-shadow: 0px 10px 25px lightgrey;
+    box-shadow: 0px 10px 25px#d4d4d4;
     width: 350;
     margin-bottom: 30px;
     margin-left: auto;
@@ -59,7 +60,7 @@ h2 {
 
 .app_screenshot {
     width: 348px;
-    box-shadow: 0 0px 2px #808080;
+    box-shadow: 0 0px 2px #7E8087;
 }
 
 .app_title {
@@ -73,4 +74,18 @@ h2 {
 
 .app-item {
     margin-bottom: 15
+}
+
+#support_button {
+    padding: 5px;
+    background:linear-gradient(to bottom, #64baff 0%,#3689e6 100%);;
+    border-radius: 3px;
+    color: #fafafa;
+    box-shadow: 0 2px 2px #808080;
+    border: 1px solid #3689e6;
+}
+
+#support_button:hover {
+    box-shadow: 0 3px 3px #808080;
+    text-decoration: none;
 }
