@@ -7,6 +7,12 @@ header {
     background: linear-gradient(to bottom, #e6e6e6 0%,#c5c5c5 100%);
 }
 
+@media (max-width: 768px) {
+    header {
+        padding: 30px 30px;
+    }
+  }
+
 footer {
     text-align: center;
     padding: 30px;
