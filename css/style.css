@@ -78,8 +78,8 @@ h2 {
 }
 
 #support_button {
-    padding: 5px;
-    background:linear-gradient(to bottom, #64baff 0%,#3689e6 100%);;
+    padding: 5px 15px;
+    background: linear-gradient(to bottom, #64baff 0%,#3689e6 100%);;
     border-radius: 3px;
     color: #fafafa;
     box-shadow: 0 2px 2px #808080;
