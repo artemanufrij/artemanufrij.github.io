@@ -1,11 +1,14 @@
+body * {
+    font-weight: lighter;
+}
+
 
 header {
     padding: 30px 120px 30px;
     border-bottom: 1px solid #d4d4d4;
     background: #e6e6e6;
-    box-shadow: 0 5px 10px #7E8087;
+    box-shadow: 0 1px 0px #7E8087;
     background: linear-gradient(to bottom, #e6e6e6 0%,#c5c5c5 100%);
-    font-weight: lighter;
 }
 
 @media (max-width: 768px) {
@@ -20,14 +23,9 @@ footer {
     border-top: 1px solid #d4d4d4;
 }
 
-h1 {
-    font-weight: lighter;
-}
-
 h2 {
     margin-top: 60px;
     margin-bottom: 30px;
-    font-weight: lighter;
     text-align: center;
 }
 
@@ -48,7 +46,6 @@ h2 {
 .card h3, .card p {
     margin: 15px 0px;
     text-align: center;
-    font-weight: lighter;
 }
 
 .app_icon {
@@ -64,12 +61,16 @@ h2 {
 }
 
 .app_title {
-    font-weight: lighter;
+    color: #1a1a1a;
 }
 
 .app_description {
     font-size: small;
-    font-weight: lighter;
+    color: #333333;
+}
+
+.app-link:hover {
+    text-decoration: none;
 }
 
 .app-item {
