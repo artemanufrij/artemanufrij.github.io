@@ -77,16 +77,25 @@ h2 {
     margin-bottom: 15
 }
 
-#support_button {
+.support_button {
     padding: 5px 15px;
-    background: linear-gradient(to bottom, #64baff 0%,#3689e6 100%);;
     border-radius: 3px;
     color: #fafafa;
     box-shadow: 0 2px 2px #808080;
+    margin-right: 10px;
+}
+
+.support_button:hover {
+    box-shadow: 0 3px 3px #808080;
+    text-decoration: none;
+}
+
+#support_button_paypal {
+    background: linear-gradient(to bottom, #64baff 0%,#3689e6 100%);
     border: 1px solid #3689e6;
 }
 
-#support_button:hover {
-    box-shadow: 0 3px 3px #808080;
-    text-decoration: none;
+#support_button_liberapay {
+    background: linear-gradient(to bottom, #f9c440 0%,#d48e15 100%);
+    border: 1px solid #d48e15;
 }
