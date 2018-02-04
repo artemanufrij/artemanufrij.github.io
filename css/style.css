@@ -83,11 +83,14 @@ h2 {
     color: #fafafa;
     box-shadow: 0 2px 2px #808080;
     margin-right: 10px;
+    font-weight: 550;
+    color: #333333;
 }
 
 .support_button:hover {
     box-shadow: 0 3px 3px #808080;
     text-decoration: none;
+    color: #fafafa;
 }
 
 #support_button_paypal {
