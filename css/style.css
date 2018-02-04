@@ -101,3 +101,8 @@ h2 {
     background: linear-gradient(to bottom, #f9c440 0%,#d48e15 100%);
     border: 1px solid #d48e15;
 }
+
+#support_button_patreon {
+    background: linear-gradient(to bottom, #ed5353 0%,#c6262e 100%);
+    border: 1px solid #c6262e;
+}
