@@ -50,6 +50,8 @@ h2 {
 
 .app_viewer, .app_viewer p {
     text-align: center;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 .col-lg-6 {
