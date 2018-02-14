@@ -43,10 +43,19 @@ h2 {
     margin-right: auto;
 }
 
-.card h3, .card p {
+.card h3, .card p, .app_viewer h3 {
     margin: 15px 0px;
     text-align: center;
 }
+
+.app_viewer, .app_viewer p {
+    text-align: center;
+}
+
+.col-6 {
+    padding: 0;
+}
+
 
 .app_icon {
     float: left;
