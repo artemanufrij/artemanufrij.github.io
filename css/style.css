@@ -48,6 +48,10 @@ h2 {
     text-align: center;
 }
 
+.app_viewer {
+    padding-bottom: 30px;
+}
+
 .app_viewer, .app_viewer p {
     text-align: center;
     padding-top: 0;
