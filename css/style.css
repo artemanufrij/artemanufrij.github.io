@@ -54,6 +54,11 @@ h2 {
     padding-top: 0;
 }
 
+.app_viewer .app_screenshot {
+    width: 100%;
+    max-width: 1000px;
+}
+
 .col-lg-6 {
     padding: 0;
 }
@@ -66,7 +71,7 @@ h2 {
     width: 48px;
 }
 
-.app_screenshot {
+.card .app_screenshot {
     width: 348px;
     box-shadow: 0 0px 2px #7E8087;
 }
