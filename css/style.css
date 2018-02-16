@@ -18,6 +18,7 @@ header {
   }
 
 footer {
+    margin-top: 30px;
     text-align: center;
     padding: 30px;
     border-top: 1px solid #d4d4d4;
@@ -49,7 +50,7 @@ h2 {
 }
 
 .app_viewer {
-    padding-bottom: 30px;
+    padding-bottom: 60px;
 }
 
 .app_viewer, .app_viewer p {
