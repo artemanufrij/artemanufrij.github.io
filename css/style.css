@@ -36,6 +36,10 @@ h2 {
     }
   }
 
+a:hover {
+    text-decoration: none;
+}
+
 .card {
     box-shadow: 0px 10px 25px#d4d4d4;
     width: 350;
@@ -90,10 +94,6 @@ h2 {
 .app_description {
     font-size: small;
     color: #333333;
-}
-
-.app-link:hover {
-    text-decoration: none;
 }
 
 .app-item {
