@@ -18,7 +18,7 @@ header {
   }
 
 footer {
-    margin-top: 30px;
+
     text-align: center;
     padding: 30px;
     border-top: 1px solid #d4d4d4;
@@ -113,6 +113,10 @@ a:hover {
     box-shadow: 0 3px 3px #808080;
     text-decoration: none;
     color: #fafafa;
+}
+
+.sponsors {
+    text-align: center;
 }
 
 #support_button_paypal {
