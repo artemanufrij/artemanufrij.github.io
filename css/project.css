@@ -1,0 +1,20 @@
+body {
+    background: #F5F5F5;
+    padding-top:30px;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+.col-lg-6 {
+    padding: 0px 15px;
+}
+
+.row .description {
+    padding: 30px;
+}
+
+.screenshot {
+    width: 100%;
+}
