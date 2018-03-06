@@ -17,8 +17,22 @@ header {
     }
   }
 
-footer {
+header #top-navigator {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    background: #333333;
+    padding: 5px;
+    color: #ffffff;
+    border-top: 1px solid #4d4d4d;
+    border-bottom: 1px solid #1a1a1a;
+    z-index: 99;
+    box-shadow: 0px 4px 8px #00000080;
+    text-align: right
+}
 
+footer {
     text-align: center;
     padding: 30px;
     border-top: 1px solid #d4d4d4;
