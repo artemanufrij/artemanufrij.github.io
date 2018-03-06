@@ -9,6 +9,7 @@ header {
     background: #e6e6e6;
     box-shadow: 0 1px 0px #7E8087;
     background: linear-gradient(to bottom, #e6e6e6 0%,#c5c5c5 100%);
+    margin-top: 30px;
 }
 
 @media (max-width: 768px) {
