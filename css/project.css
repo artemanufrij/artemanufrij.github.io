@@ -6,15 +6,8 @@ h1, h3 {
     text-align: center;
 }
 
-.col-lg-6 {
-    padding: 0px 15px;
-    display: table;
-}
-
 .description {
     padding: 30px;
-    vertical-align:middle;
-    display: table-cell;
 }
 
 .description li {
