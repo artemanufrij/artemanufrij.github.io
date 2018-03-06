@@ -1,6 +1,5 @@
 body {
     background: #F5F5F5;
-    padding-top:30px;
 }
 
 h1, h3 {
@@ -11,8 +10,12 @@ h1, h3 {
     padding: 0px 15px;
 }
 
-.row .description {
+.description {
     padding: 30px;
+}
+
+.description li {
+    margin: 30px 0px;
 }
 
 .screenshot {
