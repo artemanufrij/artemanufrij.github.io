@@ -117,7 +117,7 @@ a:hover {
 .support_button {
     padding: 3px 12px;
     border-radius: 3px;
-    margin-right: 10px;
+    margin-left: 10px;
     font-weight: 550;
     color: #333333;
 }
