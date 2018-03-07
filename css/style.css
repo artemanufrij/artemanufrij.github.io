@@ -9,7 +9,7 @@ header {
     background: #e6e6e6;
     box-shadow: 0 1px 0px #7E8087;
     background: linear-gradient(to bottom, #e6e6e6 0%,#c5c5c5 100%);
-    margin-top: 30px;
+    margin-top: 45px;
 }
 
 @media (max-width: 768px) {
@@ -24,7 +24,7 @@ header #top-navigator {
     left: 0px;
     right: 0px;
     background: #393D40;
-    padding: 5px;
+    padding: 10px 5px;
     color: #ffffff;
     border-bottom: 1px solid #1a1a1a;
     z-index: 99;
