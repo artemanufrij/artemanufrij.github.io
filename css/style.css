@@ -32,6 +32,11 @@ header {
     text-align: right
 }
 
+#logo {
+    position: fixed;
+    left: 10px;
+}
+
 footer {
     text-align: center;
     padding: 30px;
