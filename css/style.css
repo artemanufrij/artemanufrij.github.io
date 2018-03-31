@@ -18,7 +18,7 @@ header {
     }
   }
 
-header #top-navigator {
+#top-navigator {
     position: fixed;
     top: 0px;
     left: 0px;
@@ -30,6 +30,11 @@ header #top-navigator {
     z-index: 99;
     box-shadow: 0px 4px 8px #00000080;
     text-align: right
+}
+
+#logo {
+    position: fixed;
+    left: 10px;
 }
 
 footer {
